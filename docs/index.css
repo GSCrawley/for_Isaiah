@@ -17,14 +17,14 @@ html, body {
   margin: 50px auto 0 auto;
   box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
   color: whitesmoke;
-  background-color: #320db6;
+  background-color: #7653f7;
 }
 
 .card .back {
   width: 80%;
   height: 80%;
   margin: auto;
-  transform: scaleX(-1);
+  /* transform: scaleX(-1); */
 
 }
 
@@ -45,7 +45,7 @@ html, body {
   line-height: 1.2;
   font-family: "Nobile";
   color: whitesmoke;
-  background-color: #320db6;
+  background-color: #7653f7;
   font-style: italic;
   text-align: center;
   margin: 30px auto 0px auto;
@@ -58,7 +58,7 @@ html, body {
   margin: -10px 0px 0px -10px;
   border: 10px solid red;
   backface-visibility: hidden;
-  background-color: #320db6;
+  background-color: #7653f7;
   background-size: contain;
   transform-style: preserve-3d;
   transform-origin: 0% 50%;
@@ -84,7 +84,7 @@ html, body {
   border: 0px solid red;
   margin: -10px 0px 0px -10px;
   backface-visibility: visible;
-  filter: drop-shadow(2px 2px 4px rgba(65, 19, 231, 0.5));
+  box-shadow:4px 4px 4px 4px rgba(208, 232, 71, 0.954);
   transform-style: preserve-3d;
   transform-origin: 0% 50%;
   transform: perspective(800px) rotateY(0deg);
