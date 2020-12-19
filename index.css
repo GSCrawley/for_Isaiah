@@ -28,9 +28,6 @@ html, body {
 
 }
 
-.strikethrough {
-  /* text-decoration: line-through; */
-}
 
 .card .text-container #head {
   font-family: "Nobile", sans-serif;
@@ -42,7 +39,7 @@ html, body {
 
 .card p {
   font-size: 1.1em;
-  line-height: 1.2;
+  line-height: 0.5;
   font-family: "Nobile";
   color: whitesmoke;
   background-color: #7653f7;
@@ -127,21 +124,3 @@ html, body {
   background-repeat: no-repeat;
   background-position: center;
 }
-
-/* .container {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-}
-
- #img {
-  position: inherit;
-  width: 100%;
-  height: 100%;
-  visibility:visible;
-  background-image: url(media/robloxforisaiah.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-} */
-/*# sourceMappingURL=index.css.map */
