@@ -17,14 +17,13 @@ html, body {
   margin: 50px auto 0 auto;
   box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
   color: whitesmoke;
-  background-color: #7653f7;
+  background-color: #7653f7;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 }
 
 .card .text-container {
   width: 80%;
   height: 80%;
   margin: auto;
-  /* transform: scaleX(-1); */
 
 }
 
